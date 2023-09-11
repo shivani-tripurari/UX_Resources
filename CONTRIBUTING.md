@@ -29,7 +29,7 @@ To get started with contributing, you should have a certain level of knowledge r
 2. Clone the forked repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/UX_Resources.git
+   git clone https://github.com/shivani-tripurari/UX_Resources.git
    ```
 
 3. Create a new branch for your contribution:
